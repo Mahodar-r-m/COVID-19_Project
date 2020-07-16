@@ -1,0 +1,41 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+	background-color: #445175;
+}
+
+/* Sections */
+.top-section{
+  background-color: black;
+  color: #fff;
+	width: 80%;
+	border-radius: 15px;
+	margin-top : 35px;
+}
+
+.container-fluid{
+  padding: 2% 10%;
+}
+
+/* Navbar */
+.navbar {
+    border: 10px;
+    letter-spacing: 3px;
+		height: 1rem;
+}
+.navbar-brand{
+  font-size: 1.5rem;
+  font-weight: bolder;
+}
+.nav-item{
+  padding: 0 18px;
+  /* font-size: 1.2rem; */
+}
+.navbar-nav li a:hover{
+	color: #6e7eaa !important;
+}
+
+/* Top Section */
+#top.container-fluid{
+  padding: 2% 1%;
+}
